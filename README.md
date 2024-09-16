@@ -1,4 +1,4 @@
-<h1 align="center">Login-and-Register_Page</h1>
+<h1 align="center">CRUD-Users</h1>
 Login and register page with React JS in the Front End and Node JS in the Back End, too i will using the database MySql with program Xampp.<br>
 
 # <h2> Technologies used </h2>
